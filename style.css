@@ -1,11 +1,14 @@
+*{
+  font-family:Arial,sans-serif;
+}
 #gen
 { width:350px;
   height:100px;
-  font-size:55px;
+  font-size:45px;
   font-weight:bolder;
   position:absolute;
   top:1202px;
-  left:320px;
+  left:330px;
   display:none;
 }
 #images-container{
@@ -80,23 +83,23 @@ body
   color:white;
 }
 #Player
-{ width:250px;
+{ width:300px;
   height:100px;
   position:absolute;
   top:600px;
-  left:200px;
-  font-size:65px;
+  left:160px;
+  font-size:55px;
   display:none;
   font-weight:bolder;
  
 }
 #Comp
-{ width:250px;
+{ width:300px;
   height:100px;
   position:absolute;
   top:600px;
   left:500px;
-  font-size:50px;
+  font-size:55px;
   font-weight:bolder;
   display:none;
   
